@@ -61,7 +61,7 @@ All metrics were implemented as **DAX measures** to ensure dynamic filtering and
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/print_global.png)
+![Dashboard Preview](data/print_global.png)
 
 ---
 
